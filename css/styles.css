@@ -44,6 +44,8 @@ body {
     inset-inline: 0;
     display: flex;
     padding: 10px;
+    background-color: transparent;
+    aspect-ratio: 150;
 }
 
 .player-progress input {
